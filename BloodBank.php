@@ -21,3 +21,5 @@ class BloodBank extends Authenticatable
    ];
    protected $hidden = ['password', 'remember_token'];
 }
+
+
